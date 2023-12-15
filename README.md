@@ -1,5 +1,5 @@
-### **Skills**
+> ### **Skills**
 - Html , Css
-- Javascript ( react.js , next.js , ts )
+- ![Javacsript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript) ( react.js , next.js , ts )
 - Python
 - Lua
