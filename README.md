@@ -1,5 +1,2 @@
 > ### **Skills**
-- Html , Css
-- ![Javacsript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript) ( react.js , next.js , ts )
-- Python
-- Lua
+![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5) , ![Css](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css3) , ![Javacsript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript) ,![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript) , ![React](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react) , ![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs) , ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) , ![lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
